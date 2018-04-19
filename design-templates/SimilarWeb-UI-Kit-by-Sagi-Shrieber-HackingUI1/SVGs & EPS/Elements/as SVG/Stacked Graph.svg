@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1459px" height="354px" viewBox="0 0 1459 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>Stacked Graph</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path id="path-5" d="M0.117216839,87.6401697 L235.604599,-0.359832181 L473.775714,39.8702913 L710.140459,114.640171 L949.123885,39.8702929 L1185.20924,104.740589 L1420.1637,75.1401678 L1420.16365,210.050994 L0.117216839,210.050994 L0.117216839,20.4811615"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0377462636 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="298" height="34" rx="21"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#508ECF" offset="0%"></stop>
+            <stop stop-color="#427CB9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-11" x="201.751553" y="-1.16789883" width="99.3024845" height="37.9030524" rx="19"></rect>
+    </defs>
+    <g id="Data-Visualization-elements-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Data-Visualization-Elements" sketch:type="MSArtboardGroup" transform="translate(-1703.000000, -363.000000)">
+            <g id="Graphs" sketch:type="MSLayerGroup" transform="translate(38.000000, 46.000000)">
+                <g id="Stacked-Graph" transform="translate(1665.000000, 306.000000)">
+                    <g id="Legacy" transform="translate(32.000000, 17.000000)">
+                        <circle id="Oval-320" stroke="#FFFFFF" stroke-width="2" fill="#2F65A5" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="5.5" cy="12.5" r="5.5"></circle>
+                        <text id="Item-1" sketch:type="MSTextLayer" font-family="Open Sans" font-size="18" font-weight="260" fill="#2B3D52">
+                            <tspan x="18.5" y="19">Item 1</tspan>
+                        </text>
+                        <circle id="Oval-320" stroke="#FFFFFF" stroke-width="2" fill="#0D3A6F" filter="url(#filter-2)" sketch:type="MSShapeGroup" cx="133.5" cy="12.5" r="5.5"></circle>
+                        <circle id="Oval-321" stroke="#FFFFFF" stroke-width="2" fill="#2F65A5" filter="url(#filter-3)" sketch:type="MSShapeGroup" cx="253.5" cy="12.5" r="5.5"></circle>
+                        <circle id="Oval-323" stroke="#FFFFFF" stroke-width="2" fill="#0D3A6F" filter="url(#filter-4)" sketch:type="MSShapeGroup" cx="262.5" cy="12.5" r="5.5"></circle>
+                        <text id="Item-2" sketch:type="MSTextLayer" font-family="Open Sans" font-size="18" font-weight="260" fill="#2B3D52">
+                            <tspan x="146.5" y="19">Item 2</tspan>
+                        </text>
+                        <text id="Both-Items" sketch:type="MSTextLayer" font-family="Open Sans" font-size="18" font-weight="260" fill="#2B3D52">
+                            <tspan x="275.5" y="19">Both Items</tspan>
+                        </text>
+                    </g>
+                    <g id="graph-structure">
+                        <path d="M35.5,328.011955 L35.5,336.208491" id="Line-2" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M271.5,328.011955 L271.5,336.208491" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M507.5,328.011955 L507.5,336.208491" id="Line-2" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M743.5,328.011955 L743.5,336.208491" id="Line-3" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M979.5,328.011955 L979.5,336.208491" id="Line-4" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M1215.5,328.011955 L1215.5,336.208491" id="Line-5" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M1455.5,328.011955 L1455.5,336.208491" id="Line-6" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path d="M36.7189849,76.5 L1455.10658,76.5" id="Line" stroke="#ABB1B8" stroke-linecap="square" opacity="0.373192631" sketch:type="MSShapeGroup"></path>
+                        <path d="M36.7189849,160.5 L1455.10658,160.5" id="Line" stroke="#ABB1B8" stroke-linecap="square" opacity="0.373192631" sketch:type="MSShapeGroup"></path>
+                        <path d="M36.7189849,244.5 L1455.10658,244.5" id="Line-2" stroke="#ABB1B8" stroke-linecap="square" opacity="0.373192631" sketch:type="MSShapeGroup"></path>
+                        <path d="M36.7189849,327.5 L1455.10658,327.5" id="Line-3" stroke="#ABB1B8" stroke-linecap="square" opacity="0.373192631" sketch:type="MSShapeGroup"></path>
+                        <text id="0" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="32.0043945" y="299">0</tspan>
+                        </text>
+                        <text id="200" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="259.013184" y="299">200</tspan>
+                        </text>
+                        <text id="400" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="495.013184" y="299">400</tspan>
+                        </text>
+                        <text id="600" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="731.013184" y="299">600</tspan>
+                        </text>
+                        <text id="800" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="966.013184" y="299">800</tspan>
+                        </text>
+                        <text id="1,000" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="1197.14795" y="299">1,000</tspan>
+                        </text>
+                        <text id="1,200" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="1423.14795" y="299">1,200</tspan>
+                        </text>
+                        <text id="4K" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="84" fill="#707070">
+                            <tspan x="0.0302734375" y="15">4K</tspan>
+                            <tspan x="0.0302734375" y="99">3K</tspan>
+                            <tspan x="0.0302734375" y="183">2K</tspan>
+                            <tspan x="0.0302734375" y="267">1K</tspan>
+                        </text>
+                    </g>
+                    <g id="graph-stacked-orange-darkblue" transform="translate(31.000000, 112.000000)">
+                        <g id="graph1" transform="translate(1.026600, 0.359833)">
+                            <g id="Path-833" transform="translate(3.079799, 4.000000)">
+                                <g id="mask-3" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                                    <path d="M0.117216839,87.6401697 L235.604599,-0.359832181 L473.775714,39.8702913 L710.140459,114.640171 L949.123885,39.8702929 L1185.20924,104.740589 L1420.1637,75.1401678 L1420.16365,210.050994 L0.117216839,210.050994 L0.117216839,20.4811615" id="path-2"></path>
+                                </g>
+                                <g id="Mask" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                                    <path d="M0.117216839,87.6401697 L235.604599,-0.359832181 L473.775714,39.8702913 L710.140459,114.640171 L949.123885,39.8702929 L1185.20924,104.740589 L1420.1637,75.1401678 L1420.16365,210.050994 L0.117216839,210.050994 L0.117216839,20.4811615" id="path-2"></path>
+                                </g>
+                                <g id="Path-832-Clipped">
+                                    <mask id="mask-6" sketch:name="path-2" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <g id="path-2"></g>
+                                    <path d="M-1.02668667,142.712122 L235.594759,36.8711175 L477.473024,84.101243 L708.405316,146.126348 L950.419937,84.1012429 L1184.95359,169.456892 L1419.66995,144.636811 L1419.66995,-27.3598319 L-1.02668667,-26.4615535 L-1.02668667,146.126348" id="Path-832" fill="#165199" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                                </g>
+                            </g>
+                            <path d="M4.79565369,92.0041841 L239.782685,4.09205021 L479.071621,43.9832636 L715.124352,117.953975 L952.203684,43.8702929 L1190.34221,109.14017 L1423.24345,78.7405858" id="Path-830" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="1188.6693" cy="110" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="1421.7074" cy="79" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="950.498203" cy="44" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="713.353702" cy="117" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="476.209202" cy="44" r="5"></circle>
+                            <circle id="Oval-91" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="240.091301" cy="5" r="5"></circle>
+                            <circle id="Oval-92" stroke="#FFFFFF" stroke-width="2" fill="#165199" sketch:type="MSShapeGroup" cx="5" cy="91" r="5"></circle>
+                        </g>
+                        <g id="graph1-2" transform="translate(0.039101, 36.251046)" sketch:type="MSShapeGroup">
+                            <path d="M3.04061035,110.820908 L239.662056,4.97990411 L481.540321,52.2100296 L712.472613,114.235134 L954.487234,52.2100295 L1189.02088,137.565678 L1423.73724,112.745598 L1423.73724,178.24559 L3.04061035,179.143869 L3.04061035,114.235134" id="Path-831" fill="#3A8EF1"></path>
+                            <path d="M0.532850411,112.238494 L240.315535,4.12133891 L473.54761,50.3514644 L712.531019,114.238494 L953.152082,51.3514644 L1187.72357,136.707113 L1421.11205,112.238494" id="Path-830" stroke="#FFFFFF" stroke-width="2"></path>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="1187.6427" cy="137" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="1421.7074" cy="114" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="952.551402" cy="52" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="714.380302" cy="114" r="5"></circle>
+                            <circle id="Oval-90" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="475.182602" cy="52" r="5"></circle>
+                            <circle id="Oval-91" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="241.117901" cy="5" r="5"></circle>
+                            <circle id="Oval-92" stroke="#FFFFFF" stroke-width="2" fill="#3A8DF1" cx="5" cy="111" r="5"></circle>
+                        </g>
+                    </g>
+                    <g id="tabs2" transform="translate(1158.000000, 12.000000)">
+                        <g id="Bar-button" transform="translate(149.000000, 17.000000) scale(-1, 1) translate(-149.000000, -17.000000) ">
+                            <mask id="mask-9" sketch:name="Button" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <g id="Button" filter="url(#filter-7)">
+                                <use stroke="#ABB1B8" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
+                                <use stroke="none" fill="none" xlink:href="#path-8"></use>
+                            </g>
+                            <g id="Button">
+                                <use fill="url(#linearGradient-10)" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-9)" xlink:href="#path-11"></use>
+                                <use fill="none" xlink:href="#path-11"></use>
+                            </g>
+                        </g>
+                        <text id="Day-----------------" sketch:type="MSTextLayer" font-family="Open Sans" font-size="14" font-weight="normal">
+                            <tspan x="48" y="23" fill="#FFFFFF">Day</tspan>
+                            <tspan x="73.046875" y="23" fill="#233A56">                 </tspan>
+                            <tspan x="134.871094" y="23" fill="#ABB1B8">Week                  Month</tspan>
+                        </text>
+                        <path d="M195.5,1.5 L195.5,34.5285714" id="Line" stroke="#888888" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <g id="weekly" transform="translate(113.000000, 10.000000)" fill="#ABB1B8">
+                            <path d="M13.6986667,0.761904762 L16.7462857,0.761904762 C17.0274286,0.761904762 17.2537143,0.988190476 17.2537143,1.27009524 L17.2537143,15.4925714 C17.2537143,15.7737143 17.0274286,16 16.7462857,16 L1.50819048,16 C1.22628571,16 1,15.7737143 1,15.4925714 L1,1.27009524 C1,0.988190476 1.22628571,0.761904762 1.50819048,0.761904762 L4.55580952,0.761904762 L4.55580952,-0.253714286 L6.58780952,-0.253714286 L6.58780952,0.761904762 L11.6666667,0.761904762 L11.6666667,-0.253714286 L13.6986667,-0.253714286 L13.6986667,0.761904762 Z M11.6666667,1.77828571 L6.58780952,1.77828571 L6.58780952,1.77828571 L6.58780952,2.79390476 L4.55580952,2.79390476 L4.55580952,1.77828571 L2.01638095,1.77828571 L2.01638095,14.984381 L16.2388571,14.984381 L16.2388571,1.77828571 L13.6986667,1.77828571 L13.6986667,2.79390476 L11.6666667,2.79390476 L11.6666667,1.77828571 Z" id="Go-to-today" sketch:type="MSShapeGroup"></path>
+                            <text id="7" sketch:type="MSTextLayer" font-family="Open Sans" font-size="10" font-weight="526" sketch:alignment="middle">
+                                <tspan x="6.64599609" y="12">7</tspan>
+                            </text>
+                        </g>
+                        <g id="monthly" transform="translate(214.000000, 10.000000)" fill="#ABB1B8">
+                            <path d="M13.6986667,0.761904762 L16.7462857,0.761904762 C17.0274286,0.761904762 17.2537143,0.988190476 17.2537143,1.27009524 L17.2537143,15.4925714 C17.2537143,15.7737143 17.0274286,16 16.7462857,16 L1.50819048,16 C1.22628571,16 1,15.7737143 1,15.4925714 L1,1.27009524 C1,0.988190476 1.22628571,0.761904762 1.50819048,0.761904762 L4.55580952,0.761904762 L4.55580952,-0.253714286 L6.58780952,-0.253714286 L6.58780952,0.761904762 L11.6666667,0.761904762 L11.6666667,-0.253714286 L13.6986667,-0.253714286 L13.6986667,0.761904762 Z M11.6666667,1.77828571 L6.58780952,1.77828571 L6.58780952,1.77828571 L6.58780952,2.79390476 L4.55580952,2.79390476 L4.55580952,1.77828571 L2.01638095,1.77828571 L2.01638095,14.984381 L16.2388571,14.984381 L16.2388571,1.77828571 L13.6986667,1.77828571 L13.6986667,2.79390476 L11.6666667,2.79390476 L11.6666667,1.77828571 Z" id="Go-to-today-2" sketch:type="MSShapeGroup"></path>
+                            <text id="30" sketch:type="MSTextLayer" font-family="Open Sans" font-size="10" font-weight="526" sketch:alignment="middle">
+                                <tspan x="3.79199219" y="12">30</tspan>
+                            </text>
+                        </g>
+                        <g id="daily" transform="translate(25.000000, 10.000000)" fill="#FFFFFF">
+                            <path d="M13.6986667,0.761904762 L16.7462857,0.761904762 C17.0274286,0.761904762 17.2537143,0.988190476 17.2537143,1.27009524 L17.2537143,15.4925714 C17.2537143,15.7737143 17.0274286,16 16.7462857,16 L1.50819048,16 C1.22628571,16 1,15.7737143 1,15.4925714 L1,1.27009524 C1,0.988190476 1.22628571,0.761904762 1.50819048,0.761904762 L4.55580952,0.761904762 L4.55580952,-0.253714286 L6.58780952,-0.253714286 L6.58780952,0.761904762 L11.6666667,0.761904762 L11.6666667,-0.253714286 L13.6986667,-0.253714286 L13.6986667,0.761904762 Z M11.6666667,1.77828571 L6.58780952,1.77828571 L6.58780952,1.77828571 L6.58780952,2.79390476 L4.55580952,2.79390476 L4.55580952,1.77828571 L2.01638095,1.77828571 L2.01638095,14.984381 L16.2388571,14.984381 L16.2388571,1.77828571 L13.6986667,1.77828571 L13.6986667,2.79390476 L11.6666667,2.79390476 L11.6666667,1.77828571 Z" id="Go-to-today" sketch:type="MSShapeGroup"></path>
+                            <text id="1" sketch:type="MSTextLayer" font-family="Open Sans" font-size="10" font-weight="526" sketch:alignment="middle">
+                                <tspan x="6.64599609" y="12">1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

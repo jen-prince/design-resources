@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="53px" viewBox="0 0 48 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>gplay-color</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <path id="path-1" d="M1.65615476,51.3613789 L3.39867264,50.3925449 C8.66104899,47.4662023 23.9764322,38.9507942 23.9764322,38.9507942 L35.2703443,32.6720038 L27.7555979,25.4967149 L0.470324706,51.549926 C0.794123849,51.6542287 1.20707397,51.6029161 1.65615476,51.3613789 L1.65615476,51.3613789 L1.65615476,51.3613789 Z"></path>
+        <path id="path-3" d="M0.694362931,51.6782177 L27.9796362,25.6250067 L0.922408167,-0.21136852 C0.377629445,-0.0646791944 0,0.409193153 0,1.19601308 L0,25.6245351 L0,50.5482299 C0,51.1393781 0.270966813,51.5418326 0.694362931,51.6782177 L0.694362931,51.6782177 L0.694362931,51.6782177 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icons" sketch:type="MSLayerGroup" transform="translate(-261.000000, -68.000000)">
+            <g id="gplay-color" transform="translate(261.002500, 68.405000)">
+                <mask id="mask-2" sketch:name="Clip 8" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-8" fill="#CB4562" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <path d="M35.263904,32.962142 L27.7491577,25.7868532 L35.263904,18.6106211 C35.2644013,18.6108997 45.0600466,24.0964184 46.1864854,24.6831039 L46.3372083,24.7668994 C47.2751627,25.3310696 47.3358646,26.2409727 46.1388541,26.9161402 L45.4858077,27.2792058 C42.9827294,28.6706323 35.263904,32.962142 35.263904,32.962142 L35.263904,32.962142 Z" id="Clip-11" fill="#F79F78" sketch:type="MSShapeGroup"></path>
+                <mask id="mask-4" sketch:name="Clip 2" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-2" fill="#3F8CB4" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                <path d="M16.6721758,8.0224652 L2.42233423,0.0994123793 C1.89333108,-0.191797519 1.36603397,-0.276743442 0.940649412,-0.162202672 L27.9978774,25.6741725 L35.5126237,18.4979405 L24.2187117,12.2186785 C24.2187117,12.2186785 20.8024727,10.3190782 16.6721758,8.0224652 L16.6721758,8.0224652 L16.6721758,8.0224652 Z" id="Clip-5" fill="#9ED3A8" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

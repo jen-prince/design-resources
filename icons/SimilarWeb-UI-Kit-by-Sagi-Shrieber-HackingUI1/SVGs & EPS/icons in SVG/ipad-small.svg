@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>ipad-small</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icons" sketch:type="MSLayerGroup" transform="translate(-555.000000, -3.000000)" fill="#707070">
+            <path d="M575.186,19 L556.812,19 C556.087,19 555.5,18.403 555.5,17.667 L555.5,4.333 C555.5,3.597 556.087,3 556.812,3 L575.185,3 C575.91,3 576.497,3.597 576.497,4.333 L576.497,17.666 C576.498,18.403 575.91,19 575.186,19 L575.186,19 Z M556.812,10.333 C556.45,10.333 556.156,10.632 556.156,11 C556.156,11.368 556.45,11.667 556.812,11.667 C557.174,11.667 557.468,11.369 557.468,11 C557.468,10.632 557.175,10.333 556.812,10.333 L556.812,10.333 Z M574.529,5 L558.125,5 L558.125,17 L574.53,17 L574.53,5 L574.529,5 Z" id="ipad-small" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

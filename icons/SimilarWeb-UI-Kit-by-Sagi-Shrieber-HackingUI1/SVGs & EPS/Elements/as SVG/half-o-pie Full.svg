@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="155px" height="156px" viewBox="0 0 155 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>half-o-pie Full</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.102261662 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M77.8261101,156.682095 C120.747779,156.682095 155.542666,121.607613 155.542666,78.3410474 C155.542666,35.0744817 120.747779,0 77.8261101,0 C34.9044412,0 0.109553708,35.0744817 0.109553708,78.3410474 C0.109553708,121.607613 34.9044412,156.682095 77.8261101,156.682095 Z M78.1066753,144.62702 C114.268631,144.62702 143.583688,115.076402 143.583688,78.6238671 C143.583688,42.1713323 114.268631,12.6207141 78.1066753,12.6207141 C41.9447197,12.6207141 12.6296626,42.1713323 12.6296626,78.6238671 C12.6296626,115.076402 41.9447197,144.62702 78.1066753,144.62702 Z" id="path-2"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.119975657 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Data-Visualization-elements-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Data-Visualization-Elements" sketch:type="MSArtboardGroup" transform="translate(-275.000000, -1349.000000)">
+            <g id="Pies" sketch:type="MSLayerGroup" transform="translate(64.000000, 1279.000000)">
+                <g id="half-o-pie-Full" transform="translate(211.000000, 70.000000)">
+                    <mask id="mask-3" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" opacity="0" fill="#EBEBEB" filter="url(#filter-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <path d="M79.4517161,-19.1796882 L79.4517161,79.3203118 L-30.5482839,47.8203118 C-30.5482839,47.8203118 8.44206022,140.283558 35.4517161,153.820312 C78.9420602,175.616891 180.951716,153.820312 180.951716,153.820312 L192.951716,74.8203118 L79.4517161,-35.6796882 L79.4517161,-19.1796882 Z" id="Path-298" fill="#FFFFFF" filter="url(#filter-4)" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                    <text id="86" sketch:type="MSTextLayer" font-family="Open Sans" font-size="34" font-weight="526" sketch:alignment="middle" letter-spacing="-0.424999952" fill="#FFFFFF">
+                        <tspan x="57.4694896" y="90.7456455">86</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

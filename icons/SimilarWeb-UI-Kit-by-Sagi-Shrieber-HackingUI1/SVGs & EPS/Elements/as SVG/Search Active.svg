@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="265px" height="38px" viewBox="0 0 265 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>Search Active</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.0720789292 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="266" height="38" rx="40"></rect>
+    </defs>
+    <g id="Data-Visualization-elements-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Data-Visualization-Elements" sketch:type="MSArtboardGroup" transform="translate(-1324.000000, -1732.000000)">
+            <g id="Search" sketch:type="MSLayerGroup" transform="translate(1324.000000, 1667.000000)">
+                <g id="Search-Active" transform="translate(0.000000, 65.000000)">
+                    <mask id="mask-3" sketch:name="Input Background 2" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Input-Background-2" stroke="#0061C8" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <text id="Sea" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Open Sans" font-size="18" font-weight="260" fill="#707070">
+                        <tspan x="23.3047636" y="24.3454975">Sea</tspan>
+                    </text>
+                    <path d="M53.5,7.5 L53.5,29.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                    <path d="M241.679633,20.8718557 L248.271931,27.351915 L247.382341,28.2263072 L240.74463,21.702187 C240.301701,22.0062695 239.841354,22.2693939 239.841354,22.2693939 C238.482707,23.0382881 236.852207,23.3957401 235.122794,23.1357186 C232.063973,22.676492 229.579341,20.2723789 229.093488,17.2681682 C228.31463,12.4413246 232.516855,8.3200764 237.431996,9.09393523 C240.487707,9.57488198 242.935635,12.0193326 243.397226,15.0272667 C243.656638,16.7201992 243.293337,18.3150807 242.512613,19.6455966 C242.512613,19.6462172 242.144957,20.3108546 241.679633,20.8718557 L241.679633,20.8718557 Z M242.13687,15.1122857 C241.726912,12.6808671 239.73,10.7217073 237.256566,10.3195737 C233.168806,9.65493635 229.6683,13.0923093 230.343891,17.1055772 C230.753227,19.5369958 232.748273,21.4961556 235.221706,21.8995303 C239.31071,22.56665 242.814327,19.1274153 242.13687,15.1122857 L242.13687,15.1122857 Z" id="Shape" fill="#0061C8" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

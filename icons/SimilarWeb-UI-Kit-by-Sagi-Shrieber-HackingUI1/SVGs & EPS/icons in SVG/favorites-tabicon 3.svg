@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>favorites-tabicon 3</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <path id="path-1" d="M7.04031781,-0.712022642 L9.15783166,3.48091519 L13.8862607,4.15460065 L10.4632892,7.41242285 L11.2650663,12.017616 L7.04031781,9.8457345 L2.8155693,12.017616 L3.61734639,7.41242285 L0.19437497,4.15460065 L4.92280396,3.48091519 L7.04031781,-0.712022642 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Data-Visualization-Elements" sketch:type="MSArtboardGroup" transform="translate(-3045.000000, -1931.000000)">
+            <g id="App-Tooltip" sketch:type="MSLayerGroup" transform="translate(2846.000000, 1708.000000)">
+                <g id="app-tooltip" transform="translate(2.000000, 98.000000)">
+                    <g id="stars" transform="translate(154.000000, 125.000000)">
+                        <g id="favorites-tabicon-3" transform="translate(42.935065, 0.764706)">
+                            <mask id="mask-2" sketch:name="favorites-tabicon 3" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use stroke="#C3C5C9" fill="#EAEAEA" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

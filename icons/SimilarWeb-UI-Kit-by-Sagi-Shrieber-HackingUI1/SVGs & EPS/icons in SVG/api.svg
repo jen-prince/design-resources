@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="49px" height="28px" viewBox="0 0 49 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.0.4 (8156) - http://www.bohemiancoding.com/sketch -->
+    <title>api</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icons" sketch:type="MSLayerGroup" transform="translate(-477.000000, -162.000000)" fill="#707070">
+            <path d="M512.899628,187.631456 L511.483815,186.286433 L521.247989,177.009562 L521.247989,175.104799 L511.483815,165.827929 L512.899628,164.482906 L525.082209,176.056358 L512.899628,187.631456 L512.899628,187.631456 Z M495.845661,188.708133 L506.749071,162.877768 L508.005194,163.404583 L497.101784,189.234947 L495.845661,188.708133 L495.845661,188.708133 Z M491.005555,186.246922 L489.584802,187.588652 L477.364357,176.056358 L489.584802,164.525709 L491.005555,165.865793 L481.210101,175.108092 L481.210101,177.004623 L491.005555,186.246922 L491.005555,186.246922 Z" id="api" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
